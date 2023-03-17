@@ -10,6 +10,6 @@ The result is a dynamic and captivating installation that generates a unique sou
 
 Overall, this project is a testament to the power of technology and its potential to push the boundaries of what we consider art. By blending computer-generated randomness with music, I was able to create a truly unique and inspiring work that invites the viewer to consider the intersection of art and technology.
 
-Video Link: https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ab055968-a794-46cd-b84c-afc801198f74
+- Video Link: https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ab055968-a794-46cd-b84c-afc801198f74
 
-GitHub Link: https://github.com/YingTao-22019022/CodingTwo_Final
+- GitHub Link: https://github.com/YingTao-22019022/CodingTwo_Final
